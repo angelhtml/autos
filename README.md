@@ -1,5 +1,5 @@
 <h1>overview</h1>
-<h3>The global Group </h3>consists of computer engineers who`s create and optimize your project with their own experience and talents. Global Group engineers create projects in the fields of programming, design and cyber security and with using the latest tools of the world.
+<h3>The Global Group </h3>consists of computer engineers who`s create and optimize your project with their own experience and talents. Global Group engineers create projects in the fields of programming, design and cyber security and with using the latest tools of the world.
 
 Global group design your custom websites and applications,Global group prioritize our efforts toward our customer's happiness first and foremost. We believe this allows both us and the customer to grow as we work and learn together.
 Our company uses cutting edge frameworks and tools to create secure, responsive, reliable and highly optimized websites and web applications with some of the most competitive prices you'll ever find.
