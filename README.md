@@ -11,6 +11,6 @@ You can connect with us through social medias and request your orders:
 
 twitter:https://twitter.com/globalgroup16
 
-facebook:https://twitter.com/globalgroup16
+facebook:https://facebook.com/globalgroup16
 
 instagram:https://www.instagram.com/globalgroup16
