@@ -1,4 +1,4 @@
-<h1>automobile website 🏎</h1>
+<h1>Cars responsive website</h1>
 <p align="center">
   <a href="https://youtu.be/FL-AeYoR4TE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"</a>
   <a href="https://angelhtml.github.io/autos/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"</a>  
